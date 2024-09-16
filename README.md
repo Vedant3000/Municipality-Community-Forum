@@ -23,7 +23,7 @@ Built with JavaScript, this application ensures a seamless and interactive exper
 ## 🚀 How to Run the Project
 Clone the Repository:
 ```
-git clone https://github.com/your-username/municipality-community-forum.git
+git clone https://github.com/Vedant3000/Municipality-Community-Forum.git
 
 ```
 Install Dependencies (if applicable):
